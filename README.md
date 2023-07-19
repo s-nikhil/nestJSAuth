@@ -11,6 +11,8 @@ This example requires docker or a local MySQL installation.  If using a local My
 
 #### Docker
 
+To download and use docker, visit `https://docs.docker.com/get-docker/`
+
 There is a `docker-compose.yml` file for starting Docker.
 
 `docker-compose up`
