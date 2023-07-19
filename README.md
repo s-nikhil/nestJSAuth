@@ -58,9 +58,9 @@ Install the project dependencies by running npm install.
 
 Start the Nest.js server by running npm run start or npm run start:dev for development mode.
 
-The server will now be running on port 3000.
+The server will now be running on port 5000.
 
 
 4. Access the Login Module
 
-With the Nest.js server running, you can access the login module through your browser at http://localhost:3000 (or the appropriate URL based on your deployment setup).
+With the Nest.js server running, you can access the login module through your browser at http://localhost:5000 (or the appropriate URL based on your deployment setup).
